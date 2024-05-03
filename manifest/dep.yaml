@@ -44,7 +44,7 @@ spec:
     spec:
       containers:
         - name: webmicroservicedemo
-          image: bitsshivraj/dockerwebmicroservice:latest
+          image: bitsshivraj/webmicroservice:1.0
           ports:
             - containerPort: 9009
 
